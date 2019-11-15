@@ -1,0 +1,23 @@
+.hidden{
+	display: none;
+}
+.buttons-pdf {
+        color: #fff;
+        background-color: #e42a23;
+        border-color: white;
+    }
+    .buttons-csv {
+        color: #fff;
+        background-color: #3f8852;
+        border-color: white;
+    }
+    .buttons-pdf:hover {
+        background-color: #e42a23;
+        border-color: white;
+
+    }
+    .buttons-csv:hover {
+        color: #fff;
+        background-color: #3f8852;
+        border-color: white;
+    }
